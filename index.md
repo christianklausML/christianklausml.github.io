@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+# Data Science Portfolio by Christian Klaus
 
-You can use the [editor on GitHub](https://github.com/christianklausML/christianklausml.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This portfolio is a compilation of notebooks which I created for data analysis or for exploration of machine learning algorithms. A separate category is for separate projects.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Standalone Projects.
 
-### Markdown
+### Pick-up Prediction of Parcels
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+For our final project in the Data Science Bootcamp my team predicted the pick-up time of parcels using real world data from a dispatcher company. A big part was handling large tables, combining them and engineering features. On top we built an ML and a DL model of which we used the DL model finally because it performed a lot better. We built a solid pipeline with data loading und preprocessing steps running in python scripts. The model was deployed in the cloud and we also built a small web interface to demo the model. We were able to improve the baseline accuracy score of 0.24 to a score of 0.54 with the ML model and even 0.86 with the DL model. The Timeframe of the project was 10 full days with 3 collaborators. For version control and collaboration we used Github and for the dashboard trello.
 
 ```markdown
 Syntax highlighted code block
