@@ -5,8 +5,7 @@ This portfolio is a compilation of notebooks which I created for data analysis o
 ## Standalone Projects.
 
 ### Dispatcher Project 
-![Image](https://github.com/christianklausML/parcel-pickup-prediction/blob/master/title.png)
-![Alt text](https://github.com/christianklausML/parcel-pickup-prediction/blob/master/title.png?sanitize=true)
+![Alt text](https://github.com/christianklausML/christianklausml.github.io/blob/master/docs/assets/title.png?sanitize=true)
 
 **Pick-up Prediction of Parcels**
 
@@ -16,7 +15,7 @@ For our final project in the Data Science Bootcamp my team predicted the pick-up
 
 ## Deep Learning.
 
-### Computer Vision
+### Computer Vision: CIFAR10 Classification
 
 Notebook objectives
 
