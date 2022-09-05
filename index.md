@@ -12,7 +12,13 @@ For our final project in the Data Science Bootcamp my team predicted the pick-up
 
 ### Computer Vision
 
-[Google Colab](https://colab.research.google.com/drive/1yruCa5zSoQrjJseyBvP3YbvGnxCGozV2?usp=sharing)
+Notebook objectives
+
+* Implement a CNN to solve a 10-class classification problem
+* Enhance the CNN's performance with Data Augmentation Techniques
+* Experiment the Acceleration of GPU for Image Processing with Google Colab
+
+[github](https://github.com/christianklausML/Notebooks/blob/master/cifar_classification.ipynb)
 
 ## Data Sourcing.
 
@@ -30,31 +36,3 @@ The goal is to load the data from a CSV + loop over rows to enrich each row with
 - Other information you'd find useful in the JSON API
 
 [github](https://github.com/christianklausML/Notebooks/blob/master/books_scraper.ipynb)
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/christianklausML/christianklausml.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
