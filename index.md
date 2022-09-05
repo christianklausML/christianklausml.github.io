@@ -5,7 +5,7 @@ This portfolio is a compilation of notebooks which I created for data analysis o
 ## Standalone Projects.
 
 ### Dispatcher Project 
-
+![Image](https://github.com/christianklausML/parcel-pickup-prediction/blob/master/title.png)
 ![Alt text](https://github.com/christianklausML/parcel-pickup-prediction/blob/master/title.png?sanitize=true)
 
 **Pick-up Prediction of Parcels**
