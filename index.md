@@ -26,6 +26,7 @@ Notebook objectives
 * Experiment the Acceleration of GPU for Image Processing with Google Colab
 
 [github](https://github.com/christianklausML/Notebooks/blob/master/cifar_classification.ipynb)
+
 [google colab](https://colab.research.google.com/drive/1yruCa5zSoQrjJseyBvP3YbvGnxCGozV2?usp=sharing)
 
 ### Computer Vision: Kaggle Competition RSNA 2022 Cervical Spine Fracture Detection
