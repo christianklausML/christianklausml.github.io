@@ -25,6 +25,12 @@ Notebook objectives
 
 [github](https://github.com/christianklausML/Notebooks/blob/master/cifar_classification.ipynb)
 
+## Computer Vision: Kaggle Competition RSNA 2022 Cervical Spine Fracture Detection
+
+Using the first notebook of the fastAI course to make a simple prediction for this competition.
+
+[kaggle](https://www.kaggle.com/code/christianklaus/fastai-approach-is-the-cervical-spine-fractured)
+
 ## Data Sourcing.
 
 ### Books Scraper
