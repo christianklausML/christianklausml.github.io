@@ -17,12 +17,12 @@ Feel free to check the repo readme for more info.
 
 ## Deep Learning.
 
-### Computer Vision: Semantic Segmentation of Satellite imagery for Roofs
+### Computer Vision: Semantic Segmentation of Satellite Imagery for Roofs
 
 Notebook objectives
 
 * Implement a model for semantic segmentation using the library TernausNet which uses pretrained UNet models
-* Perform binary segmentation of sattelite imagery to detect roofs which could be used for photovoltaic.
+* Perform binary segmentation of satellite imagery to detect roofs which could be used for photovoltaic.
 
 [google colab](https://colab.research.google.com/drive/16pKjSDiZp_uAYvWkcEZzJrCe55vyQEFs?usp=sharing)
 
