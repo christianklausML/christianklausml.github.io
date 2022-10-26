@@ -21,10 +21,10 @@ Feel free to check the repo readme for more info.
 
 Notebook objectives
 
-* Implement a model for semantic segmentation using the library TernausNet which uses pretrained UNet models
+* Implement a model for semantic segmentation using UNet
 * Perform binary segmentation of satellite imagery to detect roofs which could be used for photovoltaic.
 
-[google colab](https://colab.research.google.com/drive/16pKjSDiZp_uAYvWkcEZzJrCe55vyQEFs?usp=sharing)
+[google colab](https://colab.research.google.com/drive/1ceBAttqzrA2kVMCGetwyeQBMMPx0Pss7?usp=sharing)
 
 ### Computer Vision: CIFAR10 Classification
 
