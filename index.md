@@ -25,6 +25,7 @@ Notebook objectives
 * Perform binary segmentation of satellite imagery to detect roofs which could be used for photovoltaic.
 
 [github gist](https://gist.github.com/christianklausML/a58803aada56f20bd72ba0a1441ad552)
+
 [google colab](https://colab.research.google.com/drive/1ceBAttqzrA2kVMCGetwyeQBMMPx0Pss7?usp=sharing)
 
 ### Computer Vision: CIFAR10 Classification
