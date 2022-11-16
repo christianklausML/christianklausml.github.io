@@ -46,6 +46,24 @@ Using the first notebook of the fastAI course to make a simple prediction for th
 
 [kaggle](https://www.kaggle.com/code/christianklaus/fastai-approach-is-the-cervical-spine-fractured)
 
+## Natural Language Processing (NLP).
+
+### TF-IDF Clustering of Publication Titles
+
+Notebook objectives
+
+* Preprocess text: lower, remove stopwords, tokenize
+* Vectorize text (skLearn)
+* Find optimal number of clusters with elbow and silhouette methods
+* Reduce number of components with PCA
+* Clustering and visualizing clusters in plot
+* Check top keywords
+* Visualize clusters in wordclouds
+
+[gist](https://gist.github.com/christianklausML/f9580a98d02f31f8714562a89b668f96)
+
+[google colab](https://colab.research.google.com/gist/christianklausML/f9580a98d02f31f8714562a89b668f96/tf-idf_clustering_publication_titles.ipynb#scrollTo=heYK9broSk4K)
+
 ## Data Sourcing.
 
 ### Books Scraper
