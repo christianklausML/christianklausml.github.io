@@ -24,7 +24,7 @@ Notebook objectives
 * Implement a model for semantic segmentation using UNet
 * Perform binary segmentation of satellite imagery to detect roofs which could be used for photovoltaic.
 
-[github gist](https://gist.github.com/christianklausML/a58803aada56f20bd72ba0a1441ad552)
+[github gist](https://gist.github.com/christianklausML/a5dbd392f646562489bc36f618725bc2)
 
 [google colab](https://colab.research.google.com/drive/1ceBAttqzrA2kVMCGetwyeQBMMPx0Pss7?usp=sharing)
 
