@@ -64,6 +64,21 @@ Notebook objectives
 
 [google colab](https://colab.research.google.com/gist/christianklausML/f9580a98d02f31f8714562a89b668f96/tf-idf_clustering_publication_titles.ipynb#scrollTo=heYK9broSk4K)
 
+## Machine Learning.
+
+### Simple ARIMA Model for Non-Seasonal Time-Series Forecast
+
+The goal of this notebook is to apply the basic concepts of time series analysis to one-dimension data
+
+Steps:
+
+* load and visualize the data
+* train our models and make predictions
+
+[gist](https://gist.github.com/christianklausML/445cac15aacdc88cf82f4a1f037493da)
+
+[google colab](https://colab.research.google.com/gist/christianklausML/445cac15aacdc88cf82f4a1f037493da/time_series_arima.ipynb)
+
 ## Data Sourcing.
 
 ### Books Scraper
