@@ -15,6 +15,23 @@ Feel free to check the repo readme for more info.
 
 [github](https://github.com/christianklausML/dispatcher-project)
 
+### Olist Data Analysis Project
+
+Goal of this project is to analyze a dataset provided by e-commerce marketplace Olist.
+
+Steps:
+
+* Exploratory Data Analysis (EDA)
+* load csv data in a Python class and pandas DataFrame
+* define and analyze business key metrics:
+  * Order numbers
+  * Total payment values
+  * Customer Satisfaction
+  * Shipping delay
+  * 
+
+[github](https://github.com/christianklausML/olist_data_analysis)
+
 ## Deep Learning.
 
 ### Computer Vision: Semantic Segmentation of Satellite Imagery for Roofs
